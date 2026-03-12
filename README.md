@@ -14,11 +14,11 @@ This project is an **AI-powered Math Tutoring Application** built for the **Naan
 * **AI Model:** Google Gemini AI
 
 ## 👥 Team Members
-* **M. Lakshmanan**
-* **R. Shrinath**
-* **M. Nishanth**
-* **G. Mohammad Sardar Shariff**
-* **S. G. Harish**
+* **R. VISHAL**
+* **K. RAGHAVENDAR**
+* **V. HARI**
+* **N. SANJAY**
+* **M. KOWSHIK**
 
 ---
 *Developed as part of the Naan Mudhalvan Program.*
